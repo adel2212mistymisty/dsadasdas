@@ -1,0 +1,355 @@
+body {
+    font-family: Calibri, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-image: url("legendsimg/lfc_checkered.webp");
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 58px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 36px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: red;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+nav {
+    background-color: #a31d14;
+    width: 100%;
+  }
+  
+  .navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    background-color: #e83c3c;
+    transition-duration: 1s;
+  }
+  
+
+.banner {
+    text-align: center;
+    width: 100%;
+}
+
+.summary {
+    text-align: center;
+    color: white;
+    background-color: #a31d14;
+    width: 100%;
+}
+
+.dalglish {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 800px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.dalglishimg {
+    margin-left: 30px;
+}
+
+.dalglishimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.dalglishtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.philneal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 650px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.philnealtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.philnealimg {
+    margin-left: 30px;
+}
+
+.philnealimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.sg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 900px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.sgtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.sgimg {
+    margin-left: 30px;
+}
+
+.sgimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.gs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 725px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.gstext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.gsimg {
+    margin-left: 30px;
+}
+
+.gsimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.ft {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 750px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.fttext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.ftimg {
+    margin-left: 30px;
+}
+
+.ftimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.ah {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 650px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.ahtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.ahimg {
+    margin-left: 30px;
+}
+
+.ahimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.rc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 650px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.rctext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.rcimg {
+    margin-left: 30px;
+}
+
+.rcimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.ir {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 650px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.irtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.irimg {
+    margin-left: 30px;
+}
+
+.irimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.jb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1000px;
+    height: 650px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+.jbtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 400px;
+}
+
+.jbimg {
+    margin-left: 30px;
+}
+
+.jbimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
